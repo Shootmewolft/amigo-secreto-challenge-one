@@ -2,9 +2,9 @@
 Este proyecto consiste en una página web para realizar sorteos entre amigos. Ingresa tus amigos y presiona el botón de "Sortear" para que, de forma aleatoria, se seleccione el ganador.
 
 ## Estructura del Proyecto
-├── index.html
-├── styles.css
-└── app.js
+├── index.html <br />
+├── styles.css <br />
+└── app.js <br />
 
 ## Descripción de los Archivos
 - index.html: Archivo principal que contiene la estructura de la página web.
