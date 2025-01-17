@@ -2,6 +2,7 @@
 Este proyecto consiste en una página web para realizar sorteos entre amigos. Ingresa tus amigos y presiona el botón de "Sortear" para que, de forma aleatoria, se seleccione el ganador.
 
 ## Estructura del Proyecto
+├── assets <br />
 ├── index.html <br />
 ├── styles.css <br />
 └── app.js <br />
