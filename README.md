@@ -26,6 +26,7 @@ cd amigo-secreto-challenge-one
 
 2. Abre el archivo index.html en tu navegador web. Puedes hacerlo de las siguientes maneras:
 - Opción 1: Haz doble clic sobre el archivo index.html.
+  
 - Opción 2: Arrastra y suelta el archivo en la ventana del navegador.
 
 ## Personalización
