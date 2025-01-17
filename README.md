@@ -7,9 +7,9 @@ Este proyecto consiste en una página web para realizar sorteos entre amigos. In
 └── app.js
 
 ## Descripción de los Archivos
-index.html: Archivo principal que contiene la estructura de la página web.
-styles.css: Archivo para los estilos visuales de la página.
-app.js: Archivo que implementa las funcionalidades y lógica del proyecto.
+- index.html: Archivo principal que contiene la estructura de la página web.
+- styles.css: Archivo para los estilos visuales de la página.
+- app.js: Archivo que implementa las funcionalidades y lógica del proyecto.
 
 ## Requisitos Previos
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
